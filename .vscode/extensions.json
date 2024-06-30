@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "humao.rest-client",
+    "ritwickdey.liveserver",
+    "ms-vscode.vscode-typescript-next",
+    "vitest.explorer",
+    "tyriar.lorem-ipsum",
+    "sdras.night-owl",
+    "prisma.prisma"
+  ]
+}
